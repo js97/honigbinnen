@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mslayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/l4k_background"
+    android:screenOrientation="sensorLandscape"
+    tools:context=".PlayMSActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constlo_tut"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginBottom="350dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/constlo_b1"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/mstButton"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:paddingTop="40dp"
+            android:paddingBottom="30dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/questionmark" />
+
+        <ImageView
+            android:id="@+id/cloud_tutorial"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/mstButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/cloud_own" />
+
+        <TextView
+            android:id="@+id/mstexttut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="@string/tutorial"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="35sp"
+            android:textStyle="italic"
+            app:fontFamily="@font/convergence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constlo_b1"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginBottom="350dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/cloud_l1"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/mstextl1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/mstextl1"
+            app:srcCompat="@drawable/cloud_own" />
+
+        <TextView
+            android:id="@+id/mstextl1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="-20dp"
+            android:text="@string/level_1"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="35sp"
+            app:fontFamily="@font/convergence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/msl1button"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/dots_gr" />
+
+        <ImageView
+            android:id="@+id/ms1lockl"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="24dp"
+            android:background="?android:selectableItemBackground"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/lock_own" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constlo_b2"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginBottom="350dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/constlo_b1"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/cloud_l2"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/mstextl2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/cloud_own" />
+
+        <TextView
+            android:id="@+id/mstextl2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="@string/level_2"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="35sp"
+            app:fontFamily="@font/convergence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/msl2button"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/dots_bb" />
+
+        <ImageView
+            android:id="@+id/ms2lockl"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="24dp"
+            android:background="?android:selectableItemBackground"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/lock_own" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constlo_b3"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="75dp"
+        app:layout_constraintEnd_toStartOf="@+id/constlo_b4"
+        app:layout_constraintTop_toBottomOf="@+id/constlo_tut">
+
+        <ImageView
+            android:id="@+id/cloud_l3"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/mstextl3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/cloud_own" />
+
+        <TextView
+            android:id="@+id/mstextl3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="@string/level_3"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="35sp"
+            app:fontFamily="@font/convergence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/msl3button"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/dots_grr" />
+
+        <ImageView
+            android:id="@+id/ms3lockl"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="24dp"
+            android:background="?android:selectableItemBackground"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/lock_own" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constlo_b4"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/constlo_b3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constlo_b1">
+
+        <ImageView
+            android:id="@+id/cloud_l4"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/mstextl4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/mstextl4"
+            app:srcCompat="@drawable/cloud_own" />
+
+        <TextView
+            android:id="@+id/mstextl4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="@string/level_4"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="35sp"
+            app:fontFamily="@font/convergence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/msl4button"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/dots_bbb" />
+
+        <ImageView
+            android:id="@+id/ms4lockl"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="24dp"
+            android:background="?android:selectableItemBackground"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/lock_own" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constlo_b5"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toEndOf="@+id/constlo_b4"
+        app:layout_constraintTop_toBottomOf="@+id/constlo_b2">
+
+        <ImageView
+            android:id="@+id/cloud_l5"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/mstextl5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/cloud_own" />
+
+        <TextView
+            android:id="@+id/mstextl5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:text="@string/level_5"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="35sp"
+            app:fontFamily="@font/convergence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/msl5button"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/dots_bbbb" />
+
+        <ImageView
+            android:id="@+id/ms5lockl"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="24dp"
+            android:background="?android:selectableItemBackground"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/lock_own" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageButton
+        android:id="@+id/msexit"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constlo_b4"
+        app:srcCompat="@drawable/exit" />
+
+    <ImageButton
+        android:id="@+id/mscolors"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/msexit"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constlo_b3"
+        app:srcCompat="@drawable/farbpalette" />
+
+    <ImageButton
+        android:id="@+id/msach"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/msexit"
+        app:layout_constraintTop_toBottomOf="@+id/constlo_b5"
+        app:srcCompat="@drawable/pokal_icon" />
+
+    <ImageView
+        android:id="@+id/newachievement"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginBottom="48dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="@+id/msach"
+        app:layout_constraintStart_toStartOf="@+id/msach"
+        app:srcCompat="@drawable/star_blue" />
+
+    <ImageButton
+        android:id="@+id/msparentarea"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/father" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

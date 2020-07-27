@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView2"
+    android:layout_width="800dp"
+    android:layout_height="798dp"
+    android:layout_marginStart="1dp"
+    android:layout_marginTop="1dp"
+    android:layout_marginEnd="1dp"
+    android:layout_marginBottom="1dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/l4k_background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="70dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/impressum_text01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/impressum"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/dialogPreferredPadding" />
+
+            <TextView
+                android:id="@+id/impressum_text02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/l4k"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/impressum_text03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/IMP02"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/dialogPreferredPadding" />
+
+            <TextView
+                android:id="@+id/impressum_text04"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/IMP03"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/impressum_text05"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/LMU"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text06"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/faculty"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text07"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/IT"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text08"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/telephone"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text09"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/email"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/website"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/dialogPreferredPadding" />
+
+            <TextView
+                android:id="@+id/impressum_text11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/IMP04"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/impressum_text12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/niklas"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/LMU"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/department"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/address"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/telephoneniklas"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/emailniklas"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_text18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/dialogPreferredPadding" />
+
+            <TextView
+                android:id="@+id/impressum_tou"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/termsofuse"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/impressum_tou2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/termsofuseexpl"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/impressum_liab"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/liabilitynotice"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/impressum_liab2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/liabilitynoticeexpl"
+                android:textColor="?android:attr/textColorSecondaryInverse"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/impressum_backbutton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/exit" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ms3_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/l4k_background"
+    android:screenOrientation="sensorLandscape"
+    tools:context=".PlayMS_1Activity">
+
+    <ImageButton
+        android:id="@+id/ms3help"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginBottom="60dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/questionmark" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="292dp" />
+
+    <ImageButton
+        android:id="@+id/ms3playvocal"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="100dp"
+        android:background="?android:selectableItemBackground"
+        app:layout_constraintStart_toEndOf="@+id/ms3vocal"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_lock_silent_mode_off" />
+
+    <ImageButton
+        android:id="@+id/ms3bcheck"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="32dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/correctbutton_own" />
+
+    <ImageButton
+        android:id="@+id/ms3vocal"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+
+        android:adjustViewBounds="true"
+        android:background="?android:selectableItemBackground"
+        android:maxWidth="150dp"
+        android:maxHeight="150dp"
+        android:scaleType="fitCenter"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/vocal_a" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="150dp"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline">
+
+        <ImageButton
+            android:id="@+id/ms3b1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:maxWidth="300dp"
+            android:maxHeight="300dp"
+
+            android:scaleType="fitCenter"
+            app:srcCompat="@mipmap/ic_launcher_round" />
+
+        <ImageButton
+            android:id="@+id/ms3play1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/box_own_off" />
+
+        <TextView
+            android:id="@+id/ms3eword1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="TextView"
+            android:textColor="#E8EAFD"
+            android:textSize="25sp"
+            app:fontFamily="@font/convergence" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:layout_marginEnd="150dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline">
+
+        <ImageButton
+            android:id="@+id/ms3b3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="0dp"
+
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:maxWidth="300dp"
+            android:maxHeight="300dp"
+            android:scaleType="fitCenter"
+
+            app:srcCompat="@mipmap/ic_launcher_round" />
+
+        <ImageButton
+            android:id="@+id/ms3play3"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/box_own_off" />
+
+        <TextView
+            android:id="@+id/ms3eword3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="TextView"
+            android:textColor="#E8EAFD"
+            android:textSize="25sp"
+            app:fontFamily="@font/convergence" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ms3starbar"
+        android:layout_width="1278dp"
+        android:layout_height="103dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></LinearLayout>
+
+    <ImageView
+        android:id="@+id/starPopup3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        app:layout_constraintEnd_toStartOf="@id/ms3starbar"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@id/ms3starbar"
+        app:layout_constraintTop_toBottomOf="@id/ms3starbar"
+        app:srcCompat="@drawable/star_on_own"
+        tools:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/linearLayout2"
+        app:layout_constraintTop_toTopOf="@+id/guideline">
+
+        <ImageButton
+            android:id="@+id/ms3b2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="0dp"
+
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:maxWidth="300dp"
+            android:maxHeight="300dp"
+            android:scaleType="fitCenter"
+
+            app:srcCompat="@mipmap/ic_launcher_round" />
+
+        <ImageButton
+            android:id="@+id/ms3play2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/box_own_off" />
+
+        <TextView
+            android:id="@+id/ms3eword2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="TextView"
+            android:textColor="#E8EAFD"
+            android:textSize="25sp"
+            app:fontFamily="@font/convergence" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ms3wrong"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="270dp"
+        android:layout_marginLeft="270dp"
+        android:layout_marginEnd="270dp"
+        android:layout_marginRight="270dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/ms3bcheck"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout3"
+        app:layout_constraintStart_toEndOf="@+id/linearLayout2"
+        app:srcCompat="@drawable/wrong_sign" />
+
+    <ImageButton
+        android:id="@+id/ms3home"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="84dp"
+        android:layout_marginBottom="40dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/backhome" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

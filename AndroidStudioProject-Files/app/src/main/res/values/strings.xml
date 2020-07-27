@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Vokalsammler</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="welcome_screen_msg">Wähle einen Level!</string>
+    <string name="title_activity_settings2">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Various -->
+    <string name="button_next_descr">NextButton</string>
+    <string name="impressum">Impressum</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_4">Level 4</string>
+    <string name="level_5">Level 5</string>
+    <string name="erfolge">Erfolge</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="exit_confirm">Spiel wirklich verlassen?</string>
+
+    <!-- Impressum -->
+    <string name="l4k">Learning4Kids</string>
+    <string name="IMP02">ERC Starting Grant: 801980 (gefördert durch die EU)</string>
+    <string name="IMP03">Kontakt bei technischen Fragen - LMU IT HelpDesk L4K</string>
+    <string name="LMU">Ludwig-Maximilians-Universität München</string>
+    <string name="faculty">Fakultät für Psychologie und Pädagogik</string>
+    <string name="IT">Informationstechnologie</string>
+    <string name="telephone">Telefon: +49-(0)89-2180-6927</string>
+    <string name="email">E-Mail: support.l4k@lmu.de</string>
+    <string name="website">Website: www.psy.lmu.de/ffp/forschung/ag-niklas/learning-4kids/index.html</string>
+    <string name="IMP04">Kontakt Projektleiter</string>
+    <string name="niklas">Prof. Dr. Frank Niklas</string>
+    <string name="department">Department Psychologie</string>
+    <string name="address">Leopoldstr.13, 80802 München</string>
+    <string name="telephoneniklas">Telefon: +49-(0)89-2180-5166</string>
+    <string name="emailniklas">E-Mail: niklas@psy.lmu.de</string>
+    <string name="termsofuse">Nutzungsbedingungen</string>
+    <string name="termsofuseexpl">Grafiken, Illustrationen, Spiele und Dateien dieser App unterliegen dem Urheberrecht und anderen Gesetzen zum Schutz des geistigen Eigentums. Ihre Weitergabe, Veränderung, gewerbliche Nutzung oder Verwendung in anderen Medien ist nicht gestattet. Alle Rechte vorbehalten.</string>
+    <string name="liabilitynotice">Haftungshinweis</string>
+    <string name="liabilitynoticeexpl">Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich. Angabe gemäss § 6 und § 7 Anbieterkennzeichnung des TDG.</string>
+    <!-- Reset -->
+    <string name="reset">Fortschritt zuruecksetzen</string>
+    <string name="reset_progress_confirm_question">Fortschritt wirklich zuruecksetzen?</string>
+
+
+    <!-- Einfache Woerter -->
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+</resources>

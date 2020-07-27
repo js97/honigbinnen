@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mst_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/l4k_background"
+    android:screenOrientation="sensorLandscape"
+    tools:context=".PlayMS_1Activity">
+
+    <LinearLayout
+        android:id="@+id/tutstarbar"
+        android:layout_width="1278dp"
+        android:layout_height="103dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:orientation="horizontal"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></LinearLayout>
+
+    <ImageButton
+        android:id="@+id/tuthome"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="84dp"
+        android:layout_marginBottom="40dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/backhome" />
+
+    <ImageButton
+        android:id="@+id/tutplayvocal"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="?android:selectableItemBackground"
+        app:layout_constraintEnd_toEndOf="@+id/mstvocal"
+        app:layout_constraintStart_toStartOf="@+id/mstvocal"
+        app:layout_constraintTop_toBottomOf="@+id/mstvocal"
+        app:srcCompat="@android:drawable/ic_lock_silent_mode_off" />
+
+    <ImageButton
+        android:id="@+id/mstbcheck"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="98dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/correctbutton_own" />
+
+    <ImageButton
+        android:id="@+id/mstvocal"
+        android:layout_width="223dp"
+        android:layout_height="183dp"
+        android:layout_marginTop="248dp"
+
+        android:adjustViewBounds="true"
+        android:background="?android:selectableItemBackground"
+        android:maxWidth="150dp"
+        android:maxHeight="150dp"
+        android:scaleType="fitCenter"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/vocal_a" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="250dp"
+        android:layout_height="400dp"
+        android:layout_marginStart="70dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/mstb1"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_marginStart="0dp"
+
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:maxWidth="300dp"
+            android:maxHeight="300dp"
+
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/katze2" />
+
+        <ImageButton
+            android:id="@+id/mstplay1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/box_own_off" />
+
+        <TextView
+            android:id="@+id/msteword1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Katze"
+            android:textColor="#E8EAFD"
+            android:textSize="50sp"
+            app:fontFamily="@font/convergence" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout7"
+        android:layout_width="250dp"
+        android:layout_height="400dp"
+        android:layout_marginEnd="70dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/mstb2"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="0dp"
+
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:maxWidth="300dp"
+            android:maxHeight="300dp"
+            android:scaleType="fitCenter"
+
+            app:srcCompat="@drawable/pinguin" />
+
+        <ImageButton
+            android:id="@+id/mstplay2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/box_own_off" />
+
+        <TextView
+            android:id="@+id/msteword2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Pinguin"
+            android:textColor="#E8EAFD"
+            android:textSize="50sp"
+            app:fontFamily="@font/convergence" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mststarbar"
+        android:layout_width="446dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/star_on_own" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/star_on_own" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/star_off_own" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/star_off_own" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/star_off_own" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/tutpointconf"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="32dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@+id/tutplayvocal"
+        app:layout_constraintStart_toStartOf="@+id/tutplayvocal"
+        app:layout_constraintTop_toTopOf="@+id/mstbcheck"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutpointvocrd"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="32dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@+id/tutplayvocal"
+        app:layout_constraintStart_toStartOf="@+id/tutplayvocal"
+        app:layout_constraintTop_toTopOf="@+id/tutplayvocal"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutpointvoc"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:alpha="0"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/mstvocal"
+        app:layout_constraintEnd_toEndOf="@+id/mstvocal"
+        app:layout_constraintStart_toStartOf="@+id/mstvocal"
+        app:srcCompat="@drawable/pointer_arrow_own" />
+
+    <ImageView
+        android:id="@+id/tutpointhome"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="32dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@+id/tuthome"
+        app:layout_constraintStart_toStartOf="@+id/tuthome"
+        app:layout_constraintTop_toTopOf="@+id/tuthome"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutpointw2"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:alpha="0"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout7"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout7"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout7"
+        app:srcCompat="@drawable/pointer_arrow_own" />
+
+    <ImageView
+        android:id="@+id/tutpointw1"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:alpha="0"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout6"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout6"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout6"
+        app:srcCompat="@drawable/pointer_arrow_own" />
+
+    <ImageView
+        android:id="@+id/tutpointstars"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="68dp"
+        android:alpha="0"
+        android:rotation="180"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="@+id/mststarbar"
+        app:layout_constraintTop_toBottomOf="@+id/tutstarbar"
+        app:srcCompat="@drawable/pointer_arrow_own" />
+
+    <ImageView
+        android:id="@+id/tutpointw1rd"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="268dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout6"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout6"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutpointw1click"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="192dp"
+        android:layout_marginTop="96dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout6"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout6"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutpointw2rd"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="268dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout7"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout7"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutpointw2click"
+        android:layout_width="134dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="112dp"
+        android:alpha="0"
+        android:rotation="0"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout7"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout7"
+        app:srcCompat="@drawable/handpointer" />
+
+    <ImageView
+        android:id="@+id/tutcorrect"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+        android:alpha="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/star_on_own" />
+
+    <ImageView
+        android:id="@+id/tutwrong"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toTopOf="@+id/mstbcheck"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tutplayvocal"
+        app:srcCompat="@drawable/wrong_sign" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

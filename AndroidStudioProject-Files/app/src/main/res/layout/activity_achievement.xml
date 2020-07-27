@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/achievementlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/l4k_background"
+    android:screenOrientation="sensorLandscape"
+    tools:context=".AchievementActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ach1"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/ach1bronze"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1silber"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach1bronze"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1gold"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach1silber"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1diamant"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach1gold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1precision"
+            android:layout_width="63dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="55dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/darts_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time40"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach1precision"
+            app:layout_constraintEnd_toEndOf="@+id/ach1precision"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/ach1precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach1time10"
+            app:layout_constraintStart_toEndOf="@+id/ach1time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time10"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach1precision"
+            app:layout_constraintStart_toEndOf="@+id/ach1precision"
+            app:layout_constraintTop_toTopOf="@+id/ach1precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time15"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach1time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach1time10"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time20"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/ach1precision"
+            app:layout_constraintStart_toStartOf="@+id/ach1precision"
+            app:layout_constraintTop_toBottomOf="@+id/ach1precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time25"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/ach1time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach1time30"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time30"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach1precision"
+            app:layout_constraintEnd_toStartOf="@+id/ach1precision"
+            app:layout_constraintTop_toTopOf="@+id/ach1precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach1time35"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach1time30"
+            app:layout_constraintEnd_toStartOf="@+id/ach1time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ach2"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toStartOf="@+id/ach3"
+        app:layout_constraintStart_toEndOf="@+id/ach1"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/ach2bronze"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2silber"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach2bronze"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2gold"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach2silber"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2diamant"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach2gold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2precision"
+            android:layout_width="63dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="55dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/darts_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time40"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach2precision"
+            app:layout_constraintEnd_toEndOf="@+id/ach2precision"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/ach2precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach2time10"
+            app:layout_constraintStart_toEndOf="@+id/ach2time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time10"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach2precision"
+            app:layout_constraintStart_toEndOf="@+id/ach2precision"
+            app:layout_constraintTop_toTopOf="@+id/ach2precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time15"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach2time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach2time10"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time20"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/ach2precision"
+            app:layout_constraintStart_toStartOf="@+id/ach2precision"
+            app:layout_constraintTop_toBottomOf="@+id/ach2precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time25"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/ach2time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach2time30"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time30"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach2precision"
+            app:layout_constraintEnd_toStartOf="@+id/ach2precision"
+            app:layout_constraintTop_toTopOf="@+id/ach2precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach2time35"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach2time30"
+            app:layout_constraintEnd_toStartOf="@+id/ach2time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ach3"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/ach3bronze"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3silber"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach3bronze"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3gold"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach3silber"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3diamant"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach3gold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3precision"
+            android:layout_width="63dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="55dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/darts_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time40"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach3precision"
+            app:layout_constraintEnd_toEndOf="@+id/ach3precision"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/ach3precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach3time10"
+            app:layout_constraintStart_toEndOf="@+id/ach3time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time10"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach3precision"
+            app:layout_constraintStart_toEndOf="@+id/ach3precision"
+            app:layout_constraintTop_toTopOf="@+id/ach3precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time15"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach3time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach3time10"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time20"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/ach3precision"
+            app:layout_constraintStart_toStartOf="@+id/ach3precision"
+            app:layout_constraintTop_toBottomOf="@+id/ach3precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time25"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/ach3time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach3time30"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time30"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach3precision"
+            app:layout_constraintEnd_toStartOf="@+id/ach3precision"
+            app:layout_constraintTop_toTopOf="@+id/ach3precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach3time35"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach3time30"
+            app:layout_constraintEnd_toStartOf="@+id/ach3time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ach4"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="116dp"
+        android:layout_marginLeft="116dp"
+        android:layout_marginBottom="64dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/ach4bronze"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4silber"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach4bronze"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4gold"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach4silber"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4diamant"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach4gold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4precision"
+            android:layout_width="63dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="55dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/darts_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time40"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach4precision"
+            app:layout_constraintEnd_toEndOf="@+id/ach4precision"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/ach4precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach4time10"
+            app:layout_constraintStart_toEndOf="@+id/ach4time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time10"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach4precision"
+            app:layout_constraintStart_toEndOf="@+id/ach4precision"
+            app:layout_constraintTop_toTopOf="@+id/ach4precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time15"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach4time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach4time10"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time20"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/ach4precision"
+            app:layout_constraintStart_toStartOf="@+id/ach4precision"
+            app:layout_constraintTop_toBottomOf="@+id/ach4precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time25"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/ach4time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach4time30"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time30"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach4precision"
+            app:layout_constraintEnd_toStartOf="@+id/ach4precision"
+            app:layout_constraintTop_toTopOf="@+id/ach4precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach4time35"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach4time30"
+            app:layout_constraintEnd_toStartOf="@+id/ach4time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ach5"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_marginEnd="108dp"
+        android:layout_marginRight="108dp"
+        android:layout_marginBottom="64dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageButton
+            android:id="@+id/ach5bronze"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5silber"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach5bronze"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5gold"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach5silber"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5diamant"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach5gold"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/pokal_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5precision"
+            android:layout_width="63dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="55dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/darts_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time40"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach5precision"
+            app:layout_constraintEnd_toEndOf="@+id/ach5precision"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/ach5precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach5time10"
+            app:layout_constraintStart_toEndOf="@+id/ach5time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time10"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach5precision"
+            app:layout_constraintStart_toEndOf="@+id/ach5precision"
+            app:layout_constraintTop_toTopOf="@+id/ach5precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time15"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toEndOf="@+id/ach5time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach5time10"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time20"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="@+id/ach5precision"
+            app:layout_constraintStart_toStartOf="@+id/ach5precision"
+            app:layout_constraintTop_toBottomOf="@+id/ach5precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time25"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/ach5time20"
+            app:layout_constraintTop_toBottomOf="@+id/ach5time30"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time30"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="@+id/ach5precision"
+            app:layout_constraintEnd_toStartOf="@+id/ach5precision"
+            app:layout_constraintTop_toTopOf="@+id/ach5precision"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+        <ImageButton
+            android:id="@+id/ach5time35"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="?android:selectableItemBackground"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/ach5time30"
+            app:layout_constraintEnd_toStartOf="@+id/ach5time40"
+            app:srcCompat="@drawable/stopwatch_silhouette" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/ach1text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/convergence"
+        android:text="@string/level_1"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/ach1"
+        app:layout_constraintStart_toStartOf="@+id/ach1"
+        app:layout_constraintTop_toBottomOf="@+id/ach1" />
+
+    <TextView
+        android:id="@+id/ach2text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/convergence"
+        android:text="@string/level_2"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/ach2"
+        app:layout_constraintStart_toStartOf="@+id/ach2"
+        app:layout_constraintTop_toBottomOf="@+id/ach2" />
+
+    <TextView
+        android:id="@+id/ach3text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/convergence"
+        android:text="@string/level_3"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/ach3"
+        app:layout_constraintTop_toBottomOf="@+id/ach1" />
+
+    <TextView
+        android:id="@+id/ach4text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/convergence"
+        android:text="@string/level_4"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/ach4"
+        app:layout_constraintStart_toStartOf="@+id/ach4"
+        app:layout_constraintTop_toBottomOf="@+id/ach4" />
+
+    <TextView
+        android:id="@+id/ach5text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/convergence"
+        android:text="@string/level_5"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/ach5"
+        app:layout_constraintStart_toStartOf="@+id/ach5"
+        app:layout_constraintTop_toBottomOf="@+id/ach5" />
+
+    <TextView
+        android:id="@+id/achtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/convergence"
+        android:text="@string/erfolge"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/achhome"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/achtext"
+        app:srcCompat="@drawable/backhome" />
+
+    <ImageButton
+        android:id="@+id/achhelp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginBottom="32dp"
+        android:background="?android:selectableItemBackground"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/questionmark" />
+</androidx.constraintlayout.widget.ConstraintLayout>
