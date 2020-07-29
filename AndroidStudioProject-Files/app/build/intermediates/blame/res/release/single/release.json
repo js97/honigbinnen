@@ -1,0 +1,2750 @@
+[
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_vocal_i.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\vocal_i.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_madagaskar.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\madagaskar.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_wind.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_sanduhr.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\sanduhr.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hochstuhl.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hochstuhl.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_motorboot.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\motorboot.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_motorrad.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\motorrad.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_zebra.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\zebra.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schwimmbecken.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schwimmbecken.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rucola.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rucola.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pelikan.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pelikan.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_klingelton.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\klingelton.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tennis.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tennis.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bohnen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bohnen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_heft.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\heft.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_hausaufgaben.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\hausaufgaben.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_darts_silhouette.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\darts_silhouette.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_diamant.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\diamant.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_johannisbeeren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\johannisbeeren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_skorpion.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\skorpion.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_nachricht.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\nachricht.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_gabel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\gabel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_sehrstark2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_sehrstark2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dozent.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dozent.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch_silhouette.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch_silhouette.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_darkest.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_darkest.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pyramide.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pyramide.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tischlampe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tischlampe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lid.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lid.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play_ms_2w.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_play_ms_2w.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_blue.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_biotonne.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\biotonne.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_intro_l1.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\intro_l1.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_stark.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_stark.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_storch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\storch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_karotte.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\karotte.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schwimmbad.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schwimmbad.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_affe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\affe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pusteblumen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pusteblumen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_katze.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\katze.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_leopard.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\leopard.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_vocal_o.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\vocal_o.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_poksilber.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_poksilber.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_daumen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\daumen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_telefonbuch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\telefonbuch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_duschen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\duschen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_6sehrschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_6sehrschnell.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_blauwal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\blauwal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_orangen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\orangen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_plastiktonne.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\plastiktonne.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch40.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch40.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_panda.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\panda.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal_silhouette.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal_silhouette.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_delfin.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\delfin.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dill.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dill.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lippe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lippe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_farbpalette.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\farbpalette.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_spanien.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\spanien.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_klappstuhl.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\klappstuhl.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time15.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time15.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_katze2.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\katze2.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_pink.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_farbig.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\farbig.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kristall.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kristall.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\font_convergence.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\font\\convergence.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_laufband.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\laufband.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fuss.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fuss.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stuhl.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stuhl.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pferd.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pferd.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_sichel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\sichel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hemd.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hemd.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fussball.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fussball.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time40.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time40.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_torus.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\torus.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch35.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch35.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_nashorn.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\nashorn.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kopf.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kopf.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_klebstoff.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\klebstoff.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_karotten.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\karotten.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lock_own.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lock_own.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_stark2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_stark2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_stark2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_stark2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brotkorb.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brotkorb.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_luftmatratze.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\luftmatratze.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_hund.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\hund.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_intro_l3.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\intro_l3.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bus.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_playing2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_playing2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_golfball.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\golfball.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_basketball.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\basketball.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bohne.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\bohne.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_spanien.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\spanien.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_new_trophy_message.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\new_trophy_message.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schrauben.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schrauben.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_belgien.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\belgien.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_knopf.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\knopf.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_holzstift.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\holzstift.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time35.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time35.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch15.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch15.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_geschenk.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\geschenk.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tornado.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tornado.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutselect.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutselect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_nachtisch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\nachtisch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time20.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time20.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_achievement.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_nase.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\nase.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_handschuhe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\handschuhe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mantel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mantel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_haus.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\haus.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_popup_confirm_reset_progress.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\popup_confirm_reset_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_box_own_off.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\box_own_off.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kobra.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kobra.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_segelboot.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\segelboot.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mais.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mais.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_intro_l5.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\intro_l5.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_yellow.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_words.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_words.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_rakete.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\rakete.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pinsel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pinsel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutmulti.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutmulti.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_auge.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\auge.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_v3_s1_vorlesen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_v3_s1_vorlesen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schlange.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schlange.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_konditor.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\konditor.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schuhe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schuhe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_leguan.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\leguan.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kartoffeln.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kartoffeln.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_socken.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\socken.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_handball.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\handball.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_trommel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\trommel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_blumenkohl.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\blumenkohl.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_erdbeeren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\erdbeeren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_hand.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\hand.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_walross2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\walross2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch10.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch10.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_blaubeeren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\blaubeeren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kuchen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kuchen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_zimtstange.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\zimtstange.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hexe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hexe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_white.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_gras.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\gras.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rosmarin.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rosmarin.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_prisma.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\prisma.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_wolf.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\wolf.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_handpointer.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\handpointer.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_karotte.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\karotte.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_wordsselect.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_wordsselect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schrank.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schrank.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_vocal_u.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\vocal_u.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pinguin.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pinguin.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stachelbeeren.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stachelbeeren.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_l4k_app_icon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-mdpi\\l4k_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_l4k_app_icon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxhdpi\\l4k_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutreccommit.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutreccommit.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_correct.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\correct.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_himbeeren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\himbeeren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_wurm.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\wurm.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dots_bbbb.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dots_bbbb.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_gurke.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\gurke.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_sonnenschirm.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\sonnenschirm.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kasachstan.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kasachstan.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_l4k_app_icon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xhdpi\\l4k_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_magenta.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_magenta.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_parkbank.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\parkbank.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_v3_s3_choose.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_v3_s3_choose.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_star_blue.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\star_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_traktor.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\traktor.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_correct_sound.mp3.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\correct_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_brot.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\brot.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_grossbritannien.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\grossbritannien.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brille.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brille.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_post.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\post.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_zitrone.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\zitrone.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_confirm.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_confirm.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dots_gr.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dots_gr.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schraube.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schraube.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_basketball.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\basketball.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kalmar.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kalmar.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kaninchen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kaninchen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_purple.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_cyan.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_cyan.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_darts.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\darts.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_telefonbuch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\telefonbuch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_sprungbrett.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\sprungbrett.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_telefax.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\telefax.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_notizbuch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\notizbuch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fahrrad.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fahrrad.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal_gold.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal_gold.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_krokodil.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\krokodil.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_badeanzug.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\badeanzug.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lastkraftwagen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lastkraftwagen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kind.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kind.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_limetten.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\limetten.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_nilpferd.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\nilpferd.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_holzbank.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\holzbank.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pusteblumen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pusteblumen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stempel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stempel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_klappstuhl.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\klappstuhl.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch20.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch20.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_correctbutton_own.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\correctbutton_own.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_telefon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\telefon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_holzbank.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\holzbank.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pottwal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pottwal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_mittel2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_mittel2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_laternen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\laternen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch05.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch05.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_schwach3.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_schwach3.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_nase.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\nase.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fernsehen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fernsehen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_holzstift.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\holzstift.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_basilikum.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\basilikum.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_dampflok.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\dampflok.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_sanduhr.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\sanduhr.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_nilpferd.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\nilpferd.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_play_button.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schwan.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schwan.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_klebestift.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\klebestift.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_farbig.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\farbig.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_zimtstangen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\zimtstangen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_correct.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_correct.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schere.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schere.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schiffsrad.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schiffsrad.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_diamant.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\diamant.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_stuhl.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\stuhl.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_karton.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\karton.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_zebra.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\zebra.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pinguin.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pinguin.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rassel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rassel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_platin.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\platin.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_noanswer.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_noanswer.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bohne.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bohne.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_xylophon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\xylophon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pfote.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pfote.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutvocal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutvocal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_laub.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\laub.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_leopard.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\leopard.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_brightest.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_brightest.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_springbrunnen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\springbrunnen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brokkoli.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brokkoli.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_krokodil.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\krokodil.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pilz.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pilz.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ring.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ring.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_farbpalette.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\farbpalette.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_strassenlaterne.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\strassenlaterne.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tisch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tisch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_daumen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\daumen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_torte.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\torte.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_petersilie.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\petersilie.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lineal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lineal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_schwach.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_schwach.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stecknadel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stecknadel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_sehrstark.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_sehrstark.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rakete.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rakete.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_laub.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\laub.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_limetten.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\limetten.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dampflok.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dampflok.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kaninchen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kaninchen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_cloud_own.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\cloud_own.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_klebeband.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\klebeband.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_orangen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\orangen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_3etwasschneller.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_3etwasschneller.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_handball.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\handball.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_sehrschwach.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_sehrschwach.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_russland.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\russland.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_trommel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\trommel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time05.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time05.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pfote.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pfote.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_blatt.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\blatt.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_karton.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\karton.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_petersilie.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\petersilie.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bananen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bananen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_telephone.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\telephone.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_gurken.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\gurken.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pflanze.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pflanze.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_angel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\angel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_dill.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\dill.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play_ss.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_play_ss.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_xylophon.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\xylophon.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schere.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schere.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kaktus.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kaktus.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_platin.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\platin.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kochtopf.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kochtopf.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_heft.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\heft.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rettungsring.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rettungsring.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_augen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\augen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pferd.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pferd.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_multianswer.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_multianswer.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_sphalerit.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\sphalerit.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_walross.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\walross.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_portal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\portal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_nagel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\nagel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_portal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\portal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_baustelle.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\baustelle.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lippenstift.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lippenstift.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal_diamant.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal_diamant.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_himbeeren.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\himbeeren.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_minze.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\minze.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_elefant.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\elefant.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_strassenlaterne.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\strassenlaterne.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kochtopf.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kochtopf.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brombeeren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brombeeren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fuss.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fuss.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kirschen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kirschen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_wurm.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\wurm.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mund.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mund.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_locked.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\locked.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_angel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\angel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_questionmark.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\questionmark.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tomate.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tomate.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_stecknadel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\stecknadel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dudelsack.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dudelsack.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_waschbaer.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\waschbaer.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_zitrone.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\zitrone.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_vocalread.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_vocalread.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_intro_l2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\intro_l2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_wrong_sign.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\wrong_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lastkraftwagen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lastkraftwagen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_luftmatratze.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\luftmatratze.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_8blitzschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_8blitzschnell.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hausaufgaben.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hausaufgaben.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_madagaskar.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\madagaskar.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_popup_impressum.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\popup_impressum.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_nagel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\nagel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kaktus.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kaktus.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_blaubeeren.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\blaubeeren.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_black.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_black.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_minze.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\minze.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_spinnennetz.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\spinnennetz.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tisch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tisch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_maiskolben.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\maiskolben.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tomate.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tomate.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_belgien.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\belgien.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bus.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bus.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_klebestift.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\klebestift.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mais.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mais.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rasseln.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rasseln.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kirschen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kirschen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_7superschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_7superschnell.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_sehrstark.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_sehrstark.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_popup_confirm_closure.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\popup_confirm_closure.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_knoblauch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\knoblauch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_vocal_u.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\vocal_u.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_giraffe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\giraffe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_pokgold.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_pokgold.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schiffsrad.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schiffsrad.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schrank.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schrank.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_violine.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\violine.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_paprika.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\paprika.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_klebstoff.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\klebstoff.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_5schnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_5schnell.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schach.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schach.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dusche.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dusche.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kristall.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kristall.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bluttropfen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bluttropfen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_gitarre.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\gitarre.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schwimmweste.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schwimmweste.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fruchtsaft.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fruchtsaft.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_brotkorb.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\brotkorb.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kopf.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kopf.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pinsel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pinsel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pyramide.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pyramide.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_vocal_a.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\vocal_a.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schuhe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schuhe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pfau.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pfau.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lauch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lauch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_gras.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\gras.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_paprikas.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\paprikas.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_waggon.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\waggon.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_apfel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\apfel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_2gemuetlich.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_2gemuetlich.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_brombeeren.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\brombeeren.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fahrrad.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fahrrad.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_nachtisch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\nachtisch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_stachelbeeren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\stachelbeeren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lineal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lineal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_maus.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\maus.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_laterne.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\laterne.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_post.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\post.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_johannisbeeren.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\johannisbeeren.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_hemd.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\hemd.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hund.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hund.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_backhome.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\backhome.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_tutorial_ms.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_tutorial_ms.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_telefon.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\telefon.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schwimmbecken.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schwimmbecken.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_golfball.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\golfball.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal_bronze.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal_bronze.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mantel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mantel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_haus.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\haus.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_popup_ms1_correct.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\popup_ms1_correct.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kalmar.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kalmar.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_blatt.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\blatt.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time30.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time30.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_skorpion.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\skorpion.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_auge.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\auge.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brunnen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brunnen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tulpe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tulpe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_spinat.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\spinat.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dots_bb.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dots_bb.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mobiltelefon.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mobiltelefon.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_thymian.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\thymian.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fussball.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fussball.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_zimt.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\zimt.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pilz.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pilz.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch25.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch25.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\anim_pulse.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\anim\\pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_rassel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\rassel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_motorrad.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\motorrad.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time25.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time25.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_schwach2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_schwach2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_wordsread.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_wordsread.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_leguan.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\leguan.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_l4k_app_icon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\l4k_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kobra.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kobra.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hand.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hand.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_russland.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\russland.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schlange.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schlange.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_hexe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\hexe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_faust.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\faust.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_serbien.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\serbien.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tauchgang.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tauchgang.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tiger.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tiger.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_musik.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\musik.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_taube.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\taube.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_filzstift.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\filzstift.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_perfect.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_perfect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_green.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_green.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_triangel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\triangel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_scheren.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\scheren.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_wachsmalstift.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\wachsmalstift.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_walross.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\walross.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tischlampe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tischlampe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_socken.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\socken.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_motorboot.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\motorboot.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_klingelton.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\klingelton.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_narwal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\narwal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_piano.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\piano.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pinsel2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pinsel2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal_silber.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal_silber.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_dozent.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\dozent.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_knoblauch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\knoblauch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutconfirm.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutconfirm.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_intro_l4.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\intro_l4.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_elefant.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\elefant.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_color.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play_ms_3w.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_play_ms_3w.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_box_own_on.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\box_own_on.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_lippenstift.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\lippenstift.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mond.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mond.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_grossbritannien.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\grossbritannien.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pokal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pokal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play_ms.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_play_ms.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kartoffel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kartoffel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_geschenk.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\geschenk.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_vocal_e.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\vocal_e.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schwan.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schwan.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_brokkoli.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\brokkoli.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_honig.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\honig.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_brunnen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\brunnen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_parkbank.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\parkbank.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_hochstuhl.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\hochstuhl.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fisch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fisch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_l4k_app_icon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-hdpi\\l4k_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_4ziemlichschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_4ziemlichschnell.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kuchen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kuchen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_basilikum.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\basilikum.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_maiskolben.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\maiskolben.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_father.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\father.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_prisma.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\prisma.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_stopwatch30.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\stopwatch30.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_laufband.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\laufband.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_torus.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\torus.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pudel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pudel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schraube.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schraube.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_vocal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_vocal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mehl.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mehl.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_zitronen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\zitronen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutrecselect.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutrecselect.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pudel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pudel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_colorselect.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_colorselect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_gitarre.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\gitarre.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_plastiktonne.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\plastiktonne.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_piano.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\piano.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_mittel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_mittel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_splash_screen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_brille.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\brille.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_exit.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pokal_icon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pokal_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\anim_blink.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_ring.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\ring.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_spinnennetz.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\spinnennetz.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutrecvocal.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutrecvocal.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_torte.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\torte.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_giraffe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\giraffe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_shortclick.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\shortclick.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_affe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\affe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dots_bbb.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dots_bbb.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mund.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mund.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_vocal_a.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\vocal_a.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_rosmarin.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\rosmarin.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_wind.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\wind.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mobiltelefon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mobiltelefon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_gold.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\gold.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kind.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kind.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\anim_drillpop.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\anim\\drillpop.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_konditor.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\konditor.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_herz.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\herz.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lippe.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lippe.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tennis.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tennis.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_rettungsring.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\rettungsring.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_back.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_back.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_knopf.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\knopf.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_v3_s2_a.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_v3_s2_a.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_sphalerit.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\sphalerit.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_baustelle.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\baustelle.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bett.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\bett.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schwimmweste.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schwimmweste.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_schwach.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_schwach.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_schwach2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_schwach2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_diskette.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\diskette.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_level_button_1.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\level_button_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_klebeband.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\klebeband.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_storch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\storch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_handschuhe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\handschuhe.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pointer_arrow_own.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pointer_arrow_own.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schneemann.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schneemann.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tulpen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tulpen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_time10.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_time10.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schild.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schild.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_serbien.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\serbien.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_mittel2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_mittel2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brot.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brot.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutrecpenguin.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutrecpenguin.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_trompete.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\trompete.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_gurke.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\gurke.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_narwal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\narwal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_erdbeeren.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\erdbeeren.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_sehrschwach.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_sehrschwach.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lauch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lauch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_diskette.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\diskette.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_taube.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\taube.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_v3_s4_confirm.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_v3_s4_confirm.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hausaufgaben2.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hausaufgaben2.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_violine.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\violine.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kartoffel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kartoffel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\anim_cartoon_popup.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\anim\\cartoon_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tiger.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tiger.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_musik.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\musik.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_trompete.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\trompete.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play_ms_4w.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_play_ms_4w.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_parent_area.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_parent_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mandarine.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mandarine.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_dudelsack.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\dudelsack.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_banane.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\banane.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_incorrect_sound.mp3.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\incorrect_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schaf.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schaf.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schach.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schach.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_ach_1langsam.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_1langsam.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_playing.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_playing.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kugel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kugel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_pokbronze.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_pokbronze.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_vocal_i.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\vocal_i.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kegel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kegel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_triangel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\triangel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_eichhoernchen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\eichhoernchen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lid.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lid.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mandarine.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mandarine.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_honig.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\honig.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_incorrect.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\incorrect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutread.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutread.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_bluttropfen.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\bluttropfen.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_springbrunnen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\springbrunnen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fuchs.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fuchs.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_gabel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\gabel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_blitz.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\blitz.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_badeanzug.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\badeanzug.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_zimt.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\zimt.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_nashorn.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\nashorn.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pflanze.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pflanze.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_spielwirklichverlassen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\spielwirklichverlassen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_spinat.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\spinat.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dots_grr.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dots_grr.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fernsehen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fernsehen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_waggon.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\waggon.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_paprika.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\paprika.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schnellzug.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schnellzug.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_rundfunk.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\rundfunk.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schwimmbad.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schwimmbad.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fisch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fisch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_blumenkohl.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\blumenkohl.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_mehl.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\mehl.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_thymian.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\thymian.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_delfin.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\delfin.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_traktor.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\traktor.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\anim_wiggle.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\anim\\wiggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_banane.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\banane.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_regal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\regal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kasachstan.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kasachstan.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_panda.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\panda.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_frosch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\frosch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_star_on_own.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\star_on_own.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schaf.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schaf.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bestaetigung_stark.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bestaetigung_stark.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_nachricht.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\nachricht.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_maus.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\maus.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kegel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kegel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_gold.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\gold.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_vocal_e.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\vocal_e.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_playing1.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_playing1.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_blauwal.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\blauwal.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pfau.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pfau.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_stark3.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_stark3.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_mittel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_mittel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_brotlaib.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\brotlaib.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tomaten.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tomaten.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_blitz.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\blitz.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_bett.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bett.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_kamel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\kamel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_rundfunk.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\rundfunk.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_filzstift.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\filzstift.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_laterne.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\laterne.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tuttask.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tuttask.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tutreccat.m4a.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tutreccat.m4a"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_fuchs.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\fuchs.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_sichel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\sichel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_herz.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\herz.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_sonnenschirm.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\sonnenschirm.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schild.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schild.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_fruchtsaft.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\fruchtsaft.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_orange.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_lippen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lippen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_pottwal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\pottwal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kugel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kugel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_faust.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\faust.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_star_off_own.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\star_off_own.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_schnellzug.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schnellzug.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play_sm.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_play_sm.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_l4k_background_red.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\l4k_background_red.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_schneemann.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\schneemann.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_regal.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\regal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_stempel.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\stempel.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_falsch_mittel3.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\falsch_mittel3.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_segelboot.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\segelboot.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tornado.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tornado.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_telefax.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\telefax.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_pelikan.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\pelikan.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_frosch.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\frosch.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_apfel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\apfel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_wolf.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\wolf.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_badges.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_badges.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_vocal_o.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\vocal_o.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_mond.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\mond.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_intro.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_intro.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_dart.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\dart.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tauchgang.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tauchgang.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_incorrect.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_incorrect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_kamel.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\kamel.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_sprungbrett.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\sprungbrett.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_notizbuch.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\notizbuch.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_rucola.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\rucola.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_zimtstange.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\zimtstange.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_biotonne.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\biotonne.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_hint_pokdiamant.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\hint_pokdiamant.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_katze.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\katze.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_tut_levelsuccess.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_levelsuccess.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\raw_wachsmalstift.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\wachsmalstift.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\release\\drawable_tulpe.png.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\tulpe.png"
+    }
+]

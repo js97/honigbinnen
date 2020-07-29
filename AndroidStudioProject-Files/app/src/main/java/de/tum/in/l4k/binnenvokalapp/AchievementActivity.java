@@ -235,7 +235,8 @@ public class AchievementActivity extends AppCompatActivity {
     protected int[][] achievement_raws = new int[][]{
             {R.raw.hint_pokbronze, R.raw.hint_poksilber, R.raw.hint_pokgold, R.raw.hint_pokdiamant},
             {R.raw.hint_perfect},
-            {R.raw.hint_time05, R.raw.hint_time10, R.raw.hint_time15, R.raw.hint_time20, R.raw.hint_time25, R.raw.hint_time30, R.raw.hint_time35, R.raw.hint_time40}
+            //{R.raw.hint_time05, R.raw.hint_time10, R.raw.hint_time15, R.raw.hint_time20, R.raw.hint_time25, R.raw.hint_time30, R.raw.hint_time35, R.raw.hint_time40} //outdated
+            {R.raw.ach_8blitzschnell, R.raw.ach_7superschnell, R.raw.ach_6sehrschnell, R.raw.ach_5schnell, R.raw.ach_4ziemlichschnell, R.raw.ach_3etwasschneller, R.raw.ach_2gemuetlich, R.raw.ach_1langsam}
     };
 
     /**

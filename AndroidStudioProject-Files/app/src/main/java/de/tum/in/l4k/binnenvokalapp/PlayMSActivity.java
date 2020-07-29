@@ -84,6 +84,7 @@ public class PlayMSActivity extends AppCompatActivity {
         ltut.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
+                if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
                 startActivity(new Intent(PlayMSActivity.this, TutorialMSActivity.class));
                 finish();
             }
@@ -99,6 +100,7 @@ public class PlayMSActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v){
                     if(PlayMSActivity.this.level_passes[finalI]) {
+                        if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
                         startActivity(new Intent(PlayMSActivity.this, new Class[]{
                                 PlayMS_1Activity.class, PlayMS_2Activity.class, PlayMS_3Activity.class, PlayMS_4Activity.class, PlayMS_5Activity.class}[finalI]));
                         finish();
@@ -116,6 +118,8 @@ public class PlayMSActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
+                currentlyPlaying = MediaPlayer.create(PlayMSActivity.this, R.raw.spielwirklichverlassen);
+                currentlyPlaying.start();
                 confirm_exit_window.showAtLocation(v, Gravity.CENTER, 0, 0);
                 /*if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                     PlayMSActivity.this.finishAndRemoveTask();
@@ -130,6 +134,7 @@ public class PlayMSActivity extends AppCompatActivity {
         colors.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
                 startActivity(new Intent(PlayMSActivity.this, ColorActivity.class));
                 finish();
             }
@@ -138,6 +143,7 @@ public class PlayMSActivity extends AppCompatActivity {
         achievements.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
                 startActivity(new Intent(PlayMSActivity.this, AchievementActivity.class));
                 finish();
             }
@@ -147,6 +153,7 @@ public class PlayMSActivity extends AppCompatActivity {
         parentarea.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
                 startActivity(new Intent(PlayMSActivity.this, ParentArea.class));
                 finish();
             }
@@ -172,14 +179,11 @@ public class PlayMSActivity extends AppCompatActivity {
         confirm_exit_window.setContentView(cewv);
         ImageButton cew_yes = cewv.findViewById(R.id.exit_confirm_button);
         ImageButton cew_no = cewv.findViewById(R.id.exit_cancel_button);
-        ImageButton cew_back = cewv.findViewById(R.id.exit_backbutton);
-        Drawable yesimg = cew_yes.getDrawable();
-        Drawable avbimg = cew_back.getDrawable();
+        //ImageButton cew_back = cewv.findViewById(R.id.exit_backbutton);
         //Somehow, the image is not loaded, this dynamic call is just a workaround
         //TODO: Fix image loading error
-        cew_no.setImageDrawable(getResources().getDrawable(R.drawable.fuchs));
-        cew_yes.setImageResource(getResources().getIdentifier("@android:drawable/ic_menu_close_clear_cancel", null, null));
-        yesimg = cew_yes.getDrawable();
+        cew_no.setImageDrawable(getResources().getDrawable(R.drawable.pokal, null));
+        cew_yes.setImageDrawable((getResources().getDrawable(R.drawable.exit, null)));
         cew_yes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -197,11 +201,12 @@ public class PlayMSActivity extends AppCompatActivity {
         View.OnClickListener ocl_no = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if(currentlyPlaying != null && currentlyPlaying.isPlaying()) currentlyPlaying.stop();
                 confirm_exit_window.dismiss();
             }
         };
         cew_no.setOnClickListener(ocl_no);
-        cew_back.setOnClickListener(ocl_no);
+        //cew_back.setOnClickListener(ocl_no);
     }
 
     /**

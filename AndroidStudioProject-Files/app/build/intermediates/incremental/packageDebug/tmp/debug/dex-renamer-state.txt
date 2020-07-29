@@ -1,4 +1,4 @@
-#Mon Jul 27 14:59:09 CEST 2020
+#Wed Jul 29 17:31:14 CEST 2020
 base.0=C\:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

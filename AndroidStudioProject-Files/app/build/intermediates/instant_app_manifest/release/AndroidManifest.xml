@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.tum.in.l4k.binnenvokalapp"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="25"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/l4k_app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/l4k_app_icon"
+        android:supportsRtl="true" >
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.ParentArea"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.ColorActivity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.AchievementActivity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.TutorialMSActivity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlayMS_1Activity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlayMS_2Activity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlayMS_3Activity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlayMS_4Activity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlayMS_5Activity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlaySMActivity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlayMSActivity"
+            android:theme="@style/NoActionBar" />
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.SplashScreenActivity"
+            android:theme="@style/splashScreenTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="de.tum.in.l4k.binnenvokalapp.PlaySSActivity"
+            android:theme="@style/NoActionBar" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -12,6 +12,10 @@
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\minze.png"
     },
     {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_4ziemlichschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_4ziemlichschnell.wav"
+    },
+    {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_schwimmweste.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\schwimmweste.wav"
     },
@@ -122,6 +126,10 @@
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_portal.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\portal.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_5schnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_5schnell.wav"
     },
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pokal_diamant.png.flat",
@@ -520,6 +528,10 @@
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tauchgang.wav"
     },
     {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_spielwirklichverlassen.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\spielwirklichverlassen.wav"
+    },
+    {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_laufband.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\laufband.wav"
     },
@@ -650,6 +662,10 @@
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_new_trophy_message.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\new_trophy_message.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_8blitzschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_8blitzschnell.wav"
     },
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_hausaufgaben.wav.flat",
@@ -792,6 +808,10 @@
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\vocal_u.wav"
     },
     {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_7superschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_7superschnell.wav"
+    },
+    {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_tut_v3_s1_vorlesen.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\tut_v3_s1_vorlesen.wav"
     },
@@ -830,6 +850,10 @@
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_1langsam.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_1langsam.wav"
     },
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walross.png.flat",
@@ -2036,6 +2060,14 @@
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\drawable\\konditor.png"
     },
     {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_2gemuetlich.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_2gemuetlich.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_3etwasschneller.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_3etwasschneller.wav"
+    },
+    {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_bluttropfen.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\bluttropfen.wav"
     },
@@ -2426,6 +2458,10 @@
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_lippen.wav.flat",
         "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\lippen.wav"
+    },
+    {
+        "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_ach_6sehrschnell.wav.flat",
+        "source": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\src\\main\\res\\raw\\ach_6sehrschnell.wav"
     },
     {
         "merged": "C:\\Users\\kroka\\AndroidStudioProjects\\BinnenvokalApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_grossbritannien.wav.flat",
